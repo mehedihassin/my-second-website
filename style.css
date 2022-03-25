@@ -2,3 +2,8 @@ h1{
     color: red;
     background-color: aqua;
 }
+img{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+}
